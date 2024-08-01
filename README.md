@@ -14,3 +14,6 @@ For every problem, I will try to implement in the following languages:
     3. Minimum of Two Arrays ([JavaScript](CodeAbbey/JS/MinOfTwo.js))
     4. Minimum of Two Arrays ([JavaScript](CodeAbbey/JS/MinOfThree.js))
     4. Maximum and Minimum of An Array of numbers ([JavaScript](CodeAbbey/JS/MaxMin.js))
+    5. Rounding of Numbers ([JavaScript](CodeAbbey/JS/Rounding.js))
+2. LeetCode
+    1. Finding The Numbers In An Array That Adds To A Target Number ([JavaScript](LeetCode/JS/TwoSums.js))
