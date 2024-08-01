@@ -17,3 +17,4 @@ For every problem, I will try to implement in the following languages:
     5. Rounding of Numbers ([JavaScript](CodeAbbey/JS/Rounding.js))
 2. LeetCode
     1. Finding The Numbers In An Array That Adds To A Target Number ([JavaScript](LeetCode/JS/TwoSums.js))
+    2. Palindrome Number ([JavaScript](LeetCode/JS/Palindrome.js))
