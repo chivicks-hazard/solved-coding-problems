@@ -1,5 +1,5 @@
 ### My Solved Problems
-This is a index of the coding problems I have solved across various code challenges websites, social media, hackathons and so on.
+This is a index of the coding problems I have solved across various code challenges websites, social media, books, hackathons and so on.
 
 For every problem, I will try to implement in the following languages:
 1. JavaScript (Since this is my first programming language)
